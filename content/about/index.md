@@ -19,6 +19,8 @@ Or you can take a look at my first post:
 
 {{< article link="/posts/first/" >}}
 
+---
+
 {{< alert "github" >}}
 Better yet, check out my [github](https://github.com/davidhintelmann) profile
 {{< /alert >}}

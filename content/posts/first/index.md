@@ -3,9 +3,9 @@ title: First Post
 author: David Hintelmann
 date: 2023-08-16
 description: "This is my first blog post."
-tags: ["first", "random"]
+tags: ["Markdown", "LaTeX","KaTeX"]
 ---
-
+{{< katex >}}
 # First Blog Post
 
 Hello my name is David Hintelmann and this is my personal website using [Hugo](https://gohugo.io/) with [Blowfish Theme](https://blowfish.page/).

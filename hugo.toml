@@ -1,0 +1,5 @@
+baseURL = 'http://github.com/davidhintelmann'
+languageCode = 'en-us'
+title = 'David Hintelmann'
+headline = 'Personal Website'
+theme = 'blowfish'

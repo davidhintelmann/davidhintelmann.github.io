@@ -212,7 +212,7 @@ For **linking to a website** [Google](https://www.google.ca).
 
 [Philip Oroni Photography](https://unsplash.com/@philipsfuture)
 
-[![Philip Oroni Photography](img/image-Philip-Oroni.png "Red thing")](img/image-Philip-Oroni.png)
+[![Philip Oroni Photography](image-Philip-Oroni.png "Red thing")](image-Philip-Oroni.png)
 
 To do list:
 

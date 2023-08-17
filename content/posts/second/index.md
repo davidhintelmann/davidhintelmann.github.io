@@ -7,11 +7,7 @@ tags: ["Markdown", "LaTeX","KaTeX"]
 ---
 {{< katex >}}
 
-# This is my Second Post
-
-Testing out the layout for the Blog page.
-
-## More Markdown for Math Formulas
+# More Markdown for Math Formulas
 
 Common formulas for perimeter, circumference, area, and volume.
 

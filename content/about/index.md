@@ -12,4 +12,7 @@ Hello my name is David Hintelmann and I live in Ontario, Canada.
 You have stumbled upon my personal website, if you have any questions or concerns please email me at davidhin@me.com
 
 In the meantime check out my github page!
+
 {{< github repo="davidhintelmann/Oanda-Go" >}}
+
+---

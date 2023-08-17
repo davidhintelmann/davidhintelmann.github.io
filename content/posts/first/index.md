@@ -206,13 +206,13 @@ For **linking to a website** [Google](https://www.google.ca).
 
 **Images** - [Philip Oroni Photography](https://unsplash.com/@philipsfuture)
 
-[![Philip Oroni Photography](https://images.unsplash.com/photo-1691083055814-f2ead870d97d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80 "Purple thing")](https://images.unsplash.com/photo-1691083055814-f2ead870d97d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80)
+![Philip Oroni Photography](https://images.unsplash.com/photo-1691083055814-f2ead870d97d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80 "Purple thing")
 
 **Relative link** for linking to files with folder path or images.
 
 [Philip Oroni Photography](https://unsplash.com/@philipsfuture)
 
-[![Philip Oroni Photography](image-Philip-Oroni.png "Red thing")](image-Philip-Oroni.png)
+![Philip Oroni Photography](image-Philip-Oroni.png "Red thing")
 
 To do list:
 

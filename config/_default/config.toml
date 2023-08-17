@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://davidhintelmann.github.io"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -22,9 +22,9 @@ buildFuture = false
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  # category = "categories"
   author = "authors"
-  series = "series"
+  # series = "series"
 
 [sitemap]
   changefreq = 'daily'

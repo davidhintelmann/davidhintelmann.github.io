@@ -6,6 +6,7 @@ description: "This is my first blog post."
 tags: ["Markdown", "LaTeX","KaTeX"]
 ---
 {{< katex >}}
+
 # First Blog Post
 
 Hello my name is David Hintelmann and this is my personal website using [Hugo](https://gohugo.io/) with [Blowfish Theme](https://blowfish.page/).

@@ -6,6 +6,7 @@ description: "This is a demo for testing out how the blog page will look when th
 tags: ["Markdown", "LaTeX","KaTeX"]
 ---
 {{< katex >}}
+
 # This is my Second Post
 
 Testing out the layout for the Blog page.

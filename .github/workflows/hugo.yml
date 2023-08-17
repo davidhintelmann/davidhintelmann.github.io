@@ -63,6 +63,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           path: ./public
 
   # Deployment job

@@ -311,10 +311,10 @@ pandoc example.md --mathjax -s -o example.html
 pandoc example.md --pdf-engine=xelatex -o example.pdf
 ```
 
+## Vimeo Videos
+
+{{< vimeo 55073825 >}}
+
 ## YouTube Videos
 
-```
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-```
-
-[![IMAGE ALT TEXT HERE](img/otto-von-bismarck-yt.png)](https://www.youtube.com/watch?v=zc3Y-dU_GjM&pp=ygURT3R0byB2b24gQmlzbWFyY2s%3D)
+{{< youtube zc3Y-dU_GjM >}}
